@@ -100,3 +100,10 @@ We create the following features:
     ```
 
 
+
+## References 
+
+[Das et al. Circulation 2006](https://doi.org/10.1161/CIRCULATIONAHA.105.595892) 
+[Kim et al. PLoS Medicine 2009](https://doi.org/10.1371/journal.pmed.1000057)
+[Kwong et al. Circulation 2006](https://doi.org/10.1161/CIRCULATIONAHA.105.570648)
+[Turkbey et al. JAMA 2015](https://doi.org/10.1001/jama.2015.14849)
